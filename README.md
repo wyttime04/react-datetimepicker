@@ -1,3 +1,10 @@
+# This project is archived!
+Moved to https://github.com/iq-service-inc/react-datetimepicker
+
+Please open issues or PRs there!
+
+---
+
 # Datetimepicker
 
 Datetimepicker為日期及時間的選擇器
